@@ -9,7 +9,7 @@ Get started with Swift Executor in just a few simple steps:
 ## Description  
 🚀 **Swift Executor** is a powerful Roblox script executor designed for seamless script execution, high performance, and an intuitive user experience. Fully compatible with the latest Roblox updates, it ensures a secure and efficient environment for gamers, developers, and modding enthusiasts.  
 
-![Preview](/assets/Swift.jpg)
+![Preview img](/assets/Swift.png)
 
 ## Table of Contents  
 - [Introduction](#introduction)  
